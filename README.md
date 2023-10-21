@@ -2,4 +2,4 @@
 
 ## Simple Navbar
 Repo [codewell-js-30-navbar](https://github.com/dsijakovski98/codewell-js-30-navbar) \
-Currently not hosted
+Hosted @ [JS 30 Navbar](https://dsijakovski98.github.io/codewell-js-30-navbar/app/)
